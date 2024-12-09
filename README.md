@@ -4,7 +4,7 @@ In this project, I transformed **discrete market data** into a **smooth, continu
 - **Linear, Quadratic, and Cubic Spline Interpolation**  
 - The **Nelson-Siegel-Svensson Parametric Model**
 
-Through these methods, we derived:  
+Through these methods,  the following were derived: 
 - **Discount factors** and **zero-coupon spot rates** via **bootstrapping**, ensuring robust and precise curve construction.  
   - **Euribor rates** were used for short-term maturities.  
   - **Swap rates** provided accuracy for medium- and long-term maturities.
@@ -13,7 +13,7 @@ Through these methods, we derived:
 
 ## 🔍 Analysis and Insights
 
-Our analysis explored various **yield curve shapes**:  
+The analysis explored various **yield curve shapes**:  
 - **Normal**, **inverted**, and **flat**,  
 interpreting their **macroeconomic implications**, such as:  
 - **Investor sentiment**  
