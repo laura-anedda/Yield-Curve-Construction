@@ -1,6 +1,6 @@
 # Yield Curve Construction and Analysis
 
-In this project, we transformed **discrete market data** into a **smooth, continuous yield curve** using a combination of:  
+In this project, I transformed **discrete market data** into a **smooth, continuous yield curve** using a combination of:  
 - **Linear, Quadratic, and Cubic Spline Interpolation**  
 - The **Nelson-Siegel-Svensson Parametric Model**
 
